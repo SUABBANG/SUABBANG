@@ -3,5 +3,7 @@
 <img src="https://img.shields.io/badge/ubuntu-171515?style=flat-square&logo=ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/linux-171515?style=flat-square&logo=linux&logoColor=white"/>
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SUABBANG&layout=compact)
+
 
 
