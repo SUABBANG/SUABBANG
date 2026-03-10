@@ -1,11 +1,5 @@
 <div align="center">
 
-## 💻 **My Programming Languages** 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUABBANG&layout=compact&theme=github_dark_dimmed&hide_border=true&bg_color=21262d&text_color=adbac7&title_color=539bf5&langs_count=8&card_width=500" />
-
----
-
 ## 📚 **Visit My Study Blog** 
 
 <div align="center">
